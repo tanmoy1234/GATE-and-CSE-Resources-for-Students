@@ -178,6 +178,8 @@ width="1000">
 
 3:- <a href="https://tutorialspoint.com">Tutorial Point</a>
 
+4:- <a href = "http://www.successgateway.co.in/lectures/courses/c-programming-1/subjects/c-programming"> success gateway</a>
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 # Data Structute
